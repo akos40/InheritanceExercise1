@@ -1,0 +1,7 @@
+C:\Users\Ákos\source\repos\InheritanceExercise1\InheritanceExercise1\bin\Debug\InheritanceExercise1.exe.config
+C:\Users\Ákos\source\repos\InheritanceExercise1\InheritanceExercise1\bin\Debug\InheritanceExercise1.exe
+C:\Users\Ákos\source\repos\InheritanceExercise1\InheritanceExercise1\bin\Debug\InheritanceExercise1.pdb
+C:\Users\Ákos\source\repos\InheritanceExercise1\InheritanceExercise1\obj\Debug\InheritanceExercise1.csprojAssemblyReference.cache
+C:\Users\Ákos\source\repos\InheritanceExercise1\InheritanceExercise1\obj\Debug\InheritanceExercise1.csproj.CoreCompileInputs.cache
+C:\Users\Ákos\source\repos\InheritanceExercise1\InheritanceExercise1\obj\Debug\InheritanceExercise1.exe
+C:\Users\Ákos\source\repos\InheritanceExercise1\InheritanceExercise1\obj\Debug\InheritanceExercise1.pdb
